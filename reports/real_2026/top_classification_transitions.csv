@@ -1,0 +1,16 @@
+classification_transition,variant_count
+Uncertain significance → Conflicting,395
+Pathogenic → Pathogenic / likely pathogenic,119
+Likely benign → Conflicting,84
+Benign → Benign / likely benign,62
+Likely pathogenic → Pathogenic / likely pathogenic,52
+Conflicting → Likely pathogenic,42
+Conflicting → Uncertain significance,36
+Conflicting → Likely benign,25
+Uncertain significance → Likely benign,23
+Conflicting → Pathogenic / likely pathogenic,21
+Conflicting → Pathogenic,19
+Pathogenic / likely pathogenic → Pathogenic,15
+Likely pathogenic → Conflicting,14
+Uncertain significance → Likely pathogenic,13
+Likely benign → Benign / likely benign,13

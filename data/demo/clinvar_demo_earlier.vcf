@@ -1,0 +1,12 @@
+##fileformat=VCFv4.1
+##fileDate=DEMO-A
+##source=Synthetic educational fixture; not real clinical data
+##reference=GRCh38
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+17	43071077	DEMO1001	A	G	.	.	ALLELEID=DEMOA1;CLNDN=Hereditary_breast_cancer;CLNHGVS=NC_000017.11:g.43071077A>G;CLNREVSTAT=criteria_provided,_single_submitter;CLNSIG=Uncertain_significance;CLNVC=single_nucleotide_variant;GENEINFO=BRCA1:672;MC=SO:0001583|missense_variant;RS=DEMO1
+13	32316461	DEMO1002	C	T	.	.	ALLELEID=DEMOA2;CLNDN=Hereditary_breast_and_ovarian_cancer;CLNHGVS=NC_000013.11:g.32316461C>T;CLNREVSTAT=criteria_provided,_conflicting_classifications;CLNSIG=Conflicting_classifications_of_pathogenicity;CLNVC=single_nucleotide_variant;GENEINFO=BRCA2:675;MC=SO:0001583|missense_variant;RS=DEMO2
+16	23614488	DEMO1003	G	A	.	.	ALLELEID=DEMOA3;CLNDN=Hereditary_cancer-predisposing_syndrome;CLNHGVS=NC_000016.10:g.23614488G>A;CLNREVSTAT=reviewed_by_expert_panel;CLNSIG=Pathogenic;CLNVC=single_nucleotide_variant;GENEINFO=PALB2:79728;MC=SO:0001589|frameshift_variant;RS=DEMO3
+11	108272729	DEMO1005	T	C	.	.	ALLELEID=DEMOA5;CLNDN=Hereditary_cancer-predisposing_syndrome;CLNHGVS=NC_000011.10:g.108272729T>C;CLNREVSTAT=criteria_provided,_single_submitter;CLNSIG=Uncertain_significance;CLNVC=single_nucleotide_variant;GENEINFO=ATM:472;MC=SO:0001583|missense_variant;RS=DEMO5
+17	7673803	DEMO1006	G	A	.	.	ALLELEID=DEMOA6;CLNDN=Li-Fraumeni_syndrome;CLNHGVS=NC_000017.11:g.7673803G>A;CLNREVSTAT=criteria_provided,_multiple_submitters,_no_conflicts;CLNSIG=Benign;CLNVC=single_nucleotide_variant;GENEINFO=TP53:7157;MC=SO:0001819|synonymous_variant;RS=DEMO6
+22	28695868	DEMO1007	A	T	.	.	ALLELEID=DEMOA7;CLNDN=Hereditary_cancer-predisposing_syndrome;CLNHGVS=NC_000022.11:g.28695868A>T;CLNREVSTAT=no_assertion_criteria_provided;CLNSIG=Likely_benign;CLNVC=single_nucleotide_variant;GENEINFO=CHEK2:11200;MC=SO:0001627|intron_variant;RS=DEMO7
+

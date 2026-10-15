@@ -1,0 +1,13 @@
+release,selected_genes,classification_group,variant_count
+Demo release A,ATM,Uncertain significance,1
+Demo release A,BRCA1,Uncertain significance,1
+Demo release A,BRCA2,Conflicting,1
+Demo release A,CHEK2,Likely benign,1
+Demo release A,PALB2,Pathogenic,1
+Demo release A,TP53,Benign,1
+Demo release B,ATM,Uncertain significance,1
+Demo release B,BRCA1,Likely benign,1
+Demo release B,BRCA2,Pathogenic,1
+Demo release B,CHEK2,Likely pathogenic,1
+Demo release B,PALB2,Pathogenic,1
+Demo release B,TP53,Conflicting,1

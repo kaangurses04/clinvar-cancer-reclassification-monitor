@@ -1,0 +1,111 @@
+release,selected_genes,classification_group,variant_count
+2026-01-04,ATM,Benign,435
+2026-01-04,ATM,Benign / likely benign,1546
+2026-01-04,ATM,Conflicting,1383
+2026-01-04,ATM,Likely benign,3474
+2026-01-04,ATM,Likely pathogenic,590
+2026-01-04,ATM,Other,1
+2026-01-04,ATM,Pathogenic,2400
+2026-01-04,ATM,Pathogenic / likely pathogenic,619
+2026-01-04,ATM,Uncertain significance,8145
+2026-01-04,BRCA1,Benign,730
+2026-01-04,BRCA1,Benign / likely benign,89
+2026-01-04,BRCA1,Conflicting,2874
+2026-01-04,BRCA1,Likely benign,2726
+2026-01-04,BRCA1,Likely pathogenic,257
+2026-01-04,BRCA1,Other,55
+2026-01-04,BRCA1,Pathogenic,3530
+2026-01-04,BRCA1,Pathogenic / likely pathogenic,218
+2026-01-04,BRCA1,Uncertain significance,2299
+2026-01-04,BRCA2,Benign,783
+2026-01-04,BRCA2,Benign / likely benign,108
+2026-01-04,BRCA2,Conflicting,5636
+2026-01-04,BRCA2,Likely benign,4688
+2026-01-04,BRCA2,Likely pathogenic,340
+2026-01-04,BRCA2,Other,24
+2026-01-04,BRCA2,Pathogenic,4742
+2026-01-04,BRCA2,Pathogenic / likely pathogenic,350
+2026-01-04,BRCA2,Uncertain significance,3983
+2026-01-04,CHEK2,Benign,103
+2026-01-04,CHEK2,Benign / likely benign,270
+2026-01-04,CHEK2,Conflicting,266
+2026-01-04,CHEK2,Likely benign,751
+2026-01-04,CHEK2,Likely pathogenic,213
+2026-01-04,CHEK2,Other,5
+2026-01-04,CHEK2,Pathogenic,633
+2026-01-04,CHEK2,Pathogenic / likely pathogenic,137
+2026-01-04,CHEK2,Uncertain significance,2003
+2026-01-04,PALB2,Benign,156
+2026-01-04,PALB2,Benign / likely benign,584
+2026-01-04,PALB2,Conflicting,685
+2026-01-04,PALB2,Likely benign,922
+2026-01-04,PALB2,Likely pathogenic,153
+2026-01-04,PALB2,Other,2
+2026-01-04,PALB2,Pathogenic,1010
+2026-01-04,PALB2,Pathogenic / likely pathogenic,231
+2026-01-04,PALB2,Uncertain significance,2698
+2026-01-04,TP53,Benign,126
+2026-01-04,TP53,Benign / likely benign,259
+2026-01-04,TP53,Conflicting,518
+2026-01-04,TP53,Drug response,1
+2026-01-04,TP53,Likely benign,741
+2026-01-04,TP53,Likely pathogenic,186
+2026-01-04,TP53,Other,3
+2026-01-04,TP53,Pathogenic,704
+2026-01-04,TP53,Pathogenic / likely pathogenic,190
+2026-01-04,TP53,Uncertain significance,951
+2026-09-28,ATM,Benign,421
+2026-09-28,ATM,Benign / likely benign,1566
+2026-09-28,ATM,Conflicting,1524
+2026-09-28,ATM,Likely benign,3681
+2026-09-28,ATM,Likely pathogenic,637
+2026-09-28,ATM,Other,1
+2026-09-28,ATM,Pathogenic,2490
+2026-09-28,ATM,Pathogenic / likely pathogenic,694
+2026-09-28,ATM,Uncertain significance,8396
+2026-09-28,BRCA1,Benign,734
+2026-09-28,BRCA1,Benign / likely benign,95
+2026-09-28,BRCA1,Conflicting,2924
+2026-09-28,BRCA1,Likely benign,2916
+2026-09-28,BRCA1,Likely pathogenic,276
+2026-09-28,BRCA1,Other,53
+2026-09-28,BRCA1,Pathogenic,3613
+2026-09-28,BRCA1,Pathogenic / likely pathogenic,227
+2026-09-28,BRCA1,Uncertain significance,2491
+2026-09-28,BRCA2,Benign,793
+2026-09-28,BRCA2,Benign / likely benign,115
+2026-09-28,BRCA2,Conflicting,5744
+2026-09-28,BRCA2,Likely benign,4962
+2026-09-28,BRCA2,Likely pathogenic,376
+2026-09-28,BRCA2,Other,22
+2026-09-28,BRCA2,Pathogenic,4933
+2026-09-28,BRCA2,Pathogenic / likely pathogenic,366
+2026-09-28,BRCA2,Uncertain significance,4283
+2026-09-28,CHEK2,Benign,97
+2026-09-28,CHEK2,Benign / likely benign,280
+2026-09-28,CHEK2,Conflicting,279
+2026-09-28,CHEK2,Likely benign,790
+2026-09-28,CHEK2,Likely pathogenic,221
+2026-09-28,CHEK2,Other,4
+2026-09-28,CHEK2,Pathogenic,676
+2026-09-28,CHEK2,Pathogenic / likely pathogenic,148
+2026-09-28,CHEK2,Uncertain significance,2081
+2026-09-28,PALB2,Benign,144
+2026-09-28,PALB2,Benign / likely benign,596
+2026-09-28,PALB2,Conflicting,743
+2026-09-28,PALB2,Likely benign,974
+2026-09-28,PALB2,Likely pathogenic,163
+2026-09-28,PALB2,Other,2
+2026-09-28,PALB2,Pathogenic,1031
+2026-09-28,PALB2,Pathogenic / likely pathogenic,259
+2026-09-28,PALB2,Uncertain significance,2782
+2026-09-28,TP53,Benign,114
+2026-09-28,TP53,Benign / likely benign,273
+2026-09-28,TP53,Conflicting,533
+2026-09-28,TP53,Drug response,1
+2026-09-28,TP53,Likely benign,778
+2026-09-28,TP53,Likely pathogenic,199
+2026-09-28,TP53,Other,3
+2026-09-28,TP53,Pathogenic,744
+2026-09-28,TP53,Pathogenic / likely pathogenic,211
+2026-09-28,TP53,Uncertain significance,964

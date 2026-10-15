@@ -1,0 +1,7 @@
+{
+  "panel_name": "Hereditary cancer starter panel",
+  "genes": ["ATM", "BRCA1", "BRCA2", "CHEK2", "PALB2", "TP53"],
+  "assembly": "GRCh38",
+  "classification_type": "germline"
+}
+

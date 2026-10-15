@@ -1,0 +1,21 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.DS_Store
+.idea/
+.vscode/
+
+# Official ClinVar VCF releases are large and reproducible from NCBI.
+data/raw/*
+!data/raw/.gitkeep
+
+# Local runs can be regenerated. Keep only the two curated portfolio exports.
+reports/*
+!reports/demo/
+!reports/demo/**
+!reports/real_2026/
+!reports/real_2026/**
+

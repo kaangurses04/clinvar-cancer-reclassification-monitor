@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clinvar-cancer-reclassification-monitor"
+version = "1.0.0"
+description = "A reproducible Python workflow for monitoring hereditary-cancer variant classification changes across ClinVar releases."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "Kaan Gurses"}
+]
+keywords = ["bioinformatics", "clinvar", "genomics", "python", "variant-classification"]
+dependencies = [
+  "pandas>=2.1,<3.0",
+  "matplotlib>=3.8,<4.0",
+  "streamlit>=1.38,<2.0"
+]
+
+[project.scripts]
+clinvar-monitor = "clinvar_monitor.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

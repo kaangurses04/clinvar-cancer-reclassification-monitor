@@ -1,0 +1,11 @@
+{
+  "earlier_label": "Demo release A",
+  "later_label": "Demo release B",
+  "earlier_selected_variants": 6,
+  "later_selected_variants": 6,
+  "classification_changes": 3,
+  "review_status_changes": 1,
+  "added_variants": 1,
+  "removed_variants": 1,
+  "unchanged_variants": 1
+}

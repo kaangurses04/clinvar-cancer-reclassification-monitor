@@ -1,0 +1,7 @@
+gene,Added in later release,Classification changed,Removed from later release,Review status changed,Unchanged
+ATM,0,0,0,1,0
+BRCA1,0,1,0,0,0
+BRCA2,0,1,0,0,0
+CHEK2,1,0,1,0,0
+PALB2,0,0,0,0,1
+TP53,0,1,0,0,0
